@@ -1,0 +1,80 @@
+[
+    {
+        "id": 0,
+        "name": "Oneplus 8 Pro 5G",
+        "manufacturer": "OnePlus",
+        "description": "The fluidity of OnePlus 8 Pro's Fluid Engine motors guarantees the content shown on the screen to flow from one frame to another with impecable form. Furthermore, the MEMC technology allows the display of smoother movements. If that is not enough, it includes a QHD+ screen of 6.78'' and a refresh rate of 120Hz designed for you to fall in love at first sight.",
+        "color": ["Blue,", " Green,", " Emerald"],
+        "price": 909,
+        "imageFileName": "oneplus.jpg",
+        "screen": "6.78''",
+        "processor": "Snapdragon 865",
+        "camera": 48,
+        "ram": 8
+    },
+    {
+        "id": 1,
+        "name": "iPhone 11",
+        "manufacturer": "Apple",
+        "description": "A dual camera system which includes a wide field of vision. It has the fastest chip a Smartphone's ever had. A battery that lasts for the whole day, so you can do more and charge less. And the best quality video in a Smartphone, that it´ll make your memories be even more unforgettable. The iPhone 11 comes in strong",
+        "color": ["White,", " Black,", " Green,", " Yellow,", " Lilac,", " Red"],
+        "price": 809,
+        "imageFileName": "iPhone.jpg",
+        "screen": "6.1''",
+        "processor": "A13 Bionic",
+        "camera": "Sistema de cámara dual de 12",
+        "ram": 4
+    },
+    {
+        "id": 2,
+        "name": "Samsung Galaxy S20",
+        "manufacturer": "Samsung",
+        "description": "Discover the Galaxy S20 Ultra. With the revolutionary video recording in 8K quality that changes the way of recording, not only video, but also photography and the 5G will change the way of sharing content. Also, Samsung Knox, a smart battery, a processor even more powerful and a great storage make the Galaxy S20 series a whole new world for the mobile devices. ",
+        "color": ["Black,", " Blue,", " Pink"],
+        "price": 699,
+        "imageFileName": "samsungs20.jpg",
+        "screen": "6.2''",
+        "processor": "Snapdragon 865",
+        "camera": "12 + 64 + 12",
+        "ram": 12
+    },
+    {
+        "id": 3,
+        "name": "Samsung Galaxy Z Flip",
+        "manufacturer": "Samsung",
+        "description": "The fullscreen Smartphone that folds so it can fit into your pocket with a revolutionary flexible glass, a camera that holds itself and a dual battery that lasts the whole day. Galaxy Z Flip folds so it can be surprisingly small and offer an excelent design that fits into your pocket or purse. The Infinity Flex screem of Galaxy Z Flip is an AMOLED dinamyc screen that offers an enourmous color quality and a reduced blue light. ",
+        "color": ["Bronze,", " Gray,", " Purple"],
+        "price": 1550,
+        "imageFileName": "samsungzflip.jpg",
+        "screen": "6.7''",
+        "processor": "Snapdragon 865",
+        "camera": "Sistema de cámara dual de 12",
+        "ram": 8
+    },
+    {
+        "id": 4,
+        "name": "Xiaomi Mi Note 10 Pro",
+        "manufacturer": "Xiaomi",
+        "description": "Xiaomi Mi 10 Pro was and is a quite complete phone. A premium mid-range with all perks one of its type could offer, and, as Xiaomi always does, it has received a new brother, with more memory and storage, which goes by the name of 'PRO'. It is a terminal which, like its antecessor, has 5 cameras ruled by a main sensor of 108mpx, Snapdragon 730G processor and a curved screen without frames. ",
+        "color": ["Black,", " Green"],
+        "price": 599,
+        "imageFileName": "xiaomi.jpg",
+        "screen": "6.47''",
+        "processor": "Snapdragon 730G",
+        "camera": "108",
+        "ram": 8
+    },
+    {
+        "id": 5,
+        "name": "Huawei P40 Pro",
+        "manufacturer": "Huawei",
+        "description": "Speak to yourself with the Quad Camara Leica Ultra Vision, making photos and videos anywhere at anytime. Revolutionize your experience in speed and power with the Kirin 990G chipset of last gen. The innovative design improves your visual entertainment and ergonomic comodity. Explore the now and tomorrow with HUAWEI P40 Pro.",
+        "color": ["Black,", " Silver"],
+        "price": 622,
+        "imageFileName": "huawei.jpg",
+        "screen": "6.58''",
+        "processor": "Kirin 990 5G",
+        "camera": "50 + 40",
+        "ram": 8
+    }
+]

@@ -1,0 +1,23 @@
+{
+  "name": "phonecatalog",
+  "version": "1.0.0",
+  "description": "A phone catalog where you can select different devices to get deeper information about them. ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BerbelStyle/phonecatalog_backend.git"
+  },
+  "author": "Jorge Berbel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BerbelStyle/phonecatalog_backend/issues"
+  },
+  "homepage": "https://github.com/BerbelStyle/phonecatalog_backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}

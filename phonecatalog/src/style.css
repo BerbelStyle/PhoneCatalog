@@ -1,0 +1,164 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-image: linear-gradient(to right, #005980, #005980, #006E9E, #007BB0, #0089C4, #0096D7);
+}
+
+.title {
+  color: white;
+  background-color: #002544;
+  padding: 20px;
+  margin: 0 0 20px 0;
+  font-family: 'Kanit', sans-serif;
+  font-size: 50px;
+}
+
+.image {
+  width: 200px;
+  border-left: 1px solid black;
+}
+
+.card {
+  position: relative;
+  text-align: justify;
+  display: flex;
+  width: 60%;
+  background-color: #EEEEEE;
+  box-shadow: 0px 0px 10px 1px black;
+  margin: 10px;
+  transition: 0.5s;
+  font-family: 'Questrial', sans-serif;
+  text-decoration: none;
+  color: black;
+  z-index: 9;
+}
+
+.card:hover {
+  transition: 0.5s;
+  box-shadow: 0px 0px 10px 2px white;
+}
+
+.list {
+  cursor: context-menu;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+
+}
+
+.name {
+  margin: 0px;
+}
+
+.brand {
+  margin: 0px 5px 10px 0px;
+  color: #5D5D5D;
+}
+
+.description {
+  width: 100%;
+  font-family: 'Slabo 27px', serif;
+}
+
+.info {
+  z-index: 9;
+  padding: 10px;
+  margin: 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  margin: 5px 5px 5px 10px;
+}
+
+p {
+  margin: 0;
+}
+
+.details {
+  align-items: center;
+  display: flex;
+  font-size: 15px;
+  margin: 0;
+  width: 100%;
+  margin: 5px 5px 5px 10px;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+}
+
+.det {
+  margin: 20px;
+  padding: 10px;
+  font-family: 'Questrial', sans-serif;
+}
+
+.link {
+  margin: 10px;
+  align-self: center;
+  color: #6FA9D5;
+}
+
+.link:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin: 20px 0 0 0;
+  width: 100%;
+  height: 100%;
+  background-color:#141414;
+}
+
+.navlinks {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.brandlink {
+  color: white;
+  margin: 0px 10px 10px 10px;
+  text-decoration: none;
+  font-family: 'Questrial', sans-serif;
+}
+
+
+/*Responsive little changes*/
+@media only screen and (max-width: 800px) {
+
+  .list {
+    margin: 0;
+    padding: 0;
+  }
+
+  .card {
+    width: 400px;
+    height: 200px;
+  }
+  .info {
+    overflow: scroll;
+  }
+
+  .details {
+    overflow: scroll;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .det {
+    margin: 0;
+  }
+
+  .image {
+    width: 200px;
+    height: 200px;
+  }
+}

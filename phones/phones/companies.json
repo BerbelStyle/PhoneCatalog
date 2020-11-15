@@ -1,0 +1,22 @@
+[
+    {
+        "id": "Apple",
+        "url": "https://www.apple.com/es/?afid=p238%7CsqBqp3TiI-dc_mtid_187079nc38483_pcrid_479202082476_pgrid_16626051515_&cid=aos-es-kwgo-brand--slid--bran-product-"
+    },
+    {
+        "id": "Samsung",
+        "url": "https://www.samsung.com/es/"
+    },
+    {
+        "id": "Xiaomi",
+        "url": "https://www.mi.com/es/?mi_campaign=ES_brand_0409&mi_source=google&mi_medium=search&mi_channel=search"
+    },
+    {
+        "id": "OnePlus",
+        "url": "https://www.oneplus.com/es"
+    },
+    {
+        "id": "Huawei",
+        "url": "https://www.huawei.com/es/"
+    }
+]
