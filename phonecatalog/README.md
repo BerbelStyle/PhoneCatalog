@@ -1,8 +1,39 @@
-#How to run this project
+# PHONE CATALOG
 
-## Available Scripts
+This app is a phone catalog that will display information about mobile phones.
 
-In the project directory, you can run:
+Each mobile phone will be displayed in a card, which will show:
+
+<ul>
+<li>The device´s name.</li>
+<li>The device's manufacturer</li>
+<li>A description</li>
+</ul>
+
+Also, if you clicked on <b>characteristics</b> it will show you the next information about the smartphone:
+
+<ul>
+<li>Price</li>
+<li>Color</li>
+<li>RAM</li>
+<li>Processor</li>
+<li>Screen</li>
+<li>Camera</li>
+</ul>
+
+Finally, there is a footer which contains links to the brands associated to the production of these devices.
+
+## HOW TO START USING THE APP
+
+To run the server, run 'node app.js' in the /phones folder:
+
+Open [http://localhost:3001](http://localhost:3001) to view the server in the browser.
+
+Then, open the /phonecatalog directory and run:
+
+### 'npm install'
+
+Install all the modules necessary for the project to run.
 
 ### `npm start`
 
@@ -11,6 +42,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+
+## OTHER SCRIPTS
 
 ### `npm test`
 
@@ -37,32 +70,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
