@@ -5,7 +5,7 @@ This app is a phone catalog that will display information about mobile phones.
 Each mobile phone will be displayed in a card, which will show:
 
 <ul>
-<li>The device´s name.</li>
+<li>The device´s name</li>
 <li>The device's manufacturer</li>
 <li>A description</li>
 </ul>
