@@ -23,6 +23,8 @@ Also, if you click on <b>characteristics</b> it will show you the next informati
 
 Finally, there is a footer which contains links to the brands associated to the production of these devices.
 
+All the data in this app is held in a REST API.
+
 ## HOW TO START USING THE APP
 
 To run the server, run 'node app.js' in the /phones folder:
