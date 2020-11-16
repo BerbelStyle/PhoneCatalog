@@ -10,7 +10,7 @@ Each mobile phone will be displayed in a card, which will show:
 <li>A description</li>
 </ul>
 
-Also, if you clicked on <b>characteristics</b> it will show you the next information about the smartphone:
+Also, if you click on <b>characteristics</b> it will show you the next information about the smartphone:
 
 <ul>
 <li>Price</li>
