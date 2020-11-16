@@ -33,7 +33,7 @@ Open [http://localhost:3001](http://localhost:3001) to view the server in the br
 
 Then, open the /phonecatalog directory and run:
 
-### 'npm install'
+### `npm install`
 
 Install all the modules necessary for the project to run.
 
