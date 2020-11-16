@@ -27,9 +27,9 @@ All the data in this app is held in a REST API.
 
 ## HOW TO START USING THE APP
 
-To run the server, run `node app.js` in the /phones folder:
+To run the REST API, run `node app.js` in the /phones folder:
 
-Open [http://localhost:3001](http://localhost:3001) to view the server in the browser.
+Open [http://localhost:3001](http://localhost:3001) to view the server in the browser (although it contains nothing relevant).
 
 Then, open the /phonecatalog directory and run:
 
@@ -40,7 +40,7 @@ Install all the modules necessary for the project to run.
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser (here it's where the good stuff is).
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
